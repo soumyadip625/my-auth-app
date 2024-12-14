@@ -1,0 +1,8 @@
+2024-12-14 19:24:06,505 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-14 19:24:06,508 - ERROR - OpenAI API response is empty or invalid.
+2024-12-14 19:24:09,737 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-14 19:24:09,738 - ERROR - OpenAI API response is empty or invalid.
+2024-12-14 20:02:57,124 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-14 20:02:57,140 - ERROR - OpenAI API response is empty or invalid.
+2024-12-14 20:03:00,404 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-14 20:03:00,416 - ERROR - OpenAI API response is empty or invalid.
